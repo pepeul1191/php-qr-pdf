@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.7",
-		"zf1/zend-pdf": "^1.12.20"
+		"zf1/zend-pdf": "^1.12.20",
+        "bacon/bacon-qr-code": "^2.0.4"
     }
 }
