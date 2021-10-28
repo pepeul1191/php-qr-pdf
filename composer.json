@@ -1,0 +1,11 @@
+{
+    "name": "pepe/qrpp",
+    "description": "Generador de PDFs con QR en PHP",
+    "authors": [
+        {
+            "name": "Pepe Valdivia",
+            "email": "pepe.valdivia.caballero@gmail.com"
+        }
+    ],
+    "require": {}
+}
