@@ -21,3 +21,5 @@ Fuentes:
 + https://github.com/pepeul1191/flightphp-boilerplate
 + https://github.com/chillerlan/php-qrcode
 + https://stackoverflow.com/questions/39384644/extension-gd-is-missing-from-your-system-laravel-composer-update/42099930
++ https://www.twilio.com/blog/create-qr-code-in-php
++ https://hotexamples.com/es/examples/-/Zend_Pdf_Page/drawImage/php-zend_pdf_page-drawimage-method-examples.html
